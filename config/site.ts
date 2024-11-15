@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "thirdweb SDK + NextUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: "Bankero Spark",
+  description: "Make Web3 Onboarding Easy and Scalable, with Account Abstraction and a simple FIAT-USDC ONRamp.",
   navItems: [
     {
       label: "Home",
@@ -10,25 +10,25 @@ export const siteConfig = {
     },
     {
       label: "Docs",
-      href: "https://portal.thirdweb.com/",
+      href: "https://github.com/Bankero-labs/bankero-manifesto",
       target: "_blank",
       rel: "noopener noreferrer",
     },
     {
       label: "Pricing",
-      href: "https://thirdweb.com/pricing",
+      href: "https://github.com/Bankero-labs/bankero-manifesto",
       target: "_blank",
       rel: "noopener noreferrer",
     },
     {
       label: "Blog",
-      href: "https://blog.thirdweb.com/guides/",
+      href: "https://github.com/Bankero-labs/bankero-manifesto",
       target: "_blank",
       rel: "noopener noreferrer",
     },
     {
       label: "About",
-      href: "https://thirdweb.com/mission",
+      href: "https://github.com/Bankero-labs/bankero-manifesto",
       target: "_blank",
       rel: "noopener noreferrer",
     },
@@ -68,9 +68,8 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/thirdweb-example",
-    twitter: "https://x.com/thirdweb",
-    docs: "https://portal.thirdweb.com/",
-    discord: "https://discord.gg/thirdweb",
+    github: "https://github.com/https://github.com/Bankero-Labs/vitalia-hackathon",
+    twitter: "https://x.com/bankerolabs",
+    docs: "https://github.com/Bankero-Labs/bankero-manifesto/blob/main/Bankero_Manifesto.md",
   },
 };

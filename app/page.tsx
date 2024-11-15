@@ -15,10 +15,11 @@ export default function Home() {
         <span className={title({ color: "violet" })}>beautiful&nbsp;</span>
         <br />
         <span className={title()}>
-          web3 dapps regardless of your design experience.
+          and easy onboarding experiences with account abstraction, and simple FIAT-USDC ONRamp.
         </span>
         <div className={subtitle({ class: "mt-4" })}>
-          With this thirdweb SDK + Next.UI Template.
+          Account Abstraction, provides the possibility to create a wallet with a custom MULTI-CHAIN EIP-4337 wallet, managed by the user.
+          We also provide a simple FIAT-USDC ONRamp, with a simple UI/UX..
         </div>
       </div>
 
@@ -42,14 +43,6 @@ export default function Home() {
           <GithubIcon size={20} />
           GitHub
         </Link>
-      </div>
-
-      <div className="mt-8">
-        <Snippet hideCopyButton hideSymbol variant="bordered">
-          <span>
-            Get started by editing <Code color="primary">app/page.tsx</Code>
-          </span>
-        </Snippet>
       </div>
     </section>
   );
