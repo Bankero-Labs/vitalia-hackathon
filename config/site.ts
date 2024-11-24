@@ -6,28 +6,12 @@ export const siteConfig = {
   navItems: [
     {
       label: "Home",
-      href: "/",
+      href: "https://bankero.co/",
+      target: "_blank",
+      rel: "noopener noreferrer",
     },
     {
       label: "Docs",
-      href: "https://github.com/Bankero-labs/bankero-manifesto",
-      target: "_blank",
-      rel: "noopener noreferrer",
-    },
-    {
-      label: "Pricing",
-      href: "https://github.com/Bankero-labs/bankero-manifesto",
-      target: "_blank",
-      rel: "noopener noreferrer",
-    },
-    {
-      label: "Blog",
-      href: "https://github.com/Bankero-labs/bankero-manifesto",
-      target: "_blank",
-      rel: "noopener noreferrer",
-    },
-    {
-      label: "About",
       href: "https://github.com/Bankero-labs/bankero-manifesto",
       target: "_blank",
       rel: "noopener noreferrer",
@@ -68,7 +52,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/https://github.com/Bankero-Labs/vitalia-hackathon",
+    github: "https://github.com/Bankero-Labs/vitalia-hackathon",
     twitter: "https://x.com/bankerolabs",
     docs: "https://github.com/Bankero-Labs/bankero-manifesto/blob/main/Bankero_Manifesto.md",
   },
